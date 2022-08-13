@@ -5,7 +5,7 @@ int main() {
   float myFloatNum = 9.99;
   char myLeter = 'W';
 
-  printf("%d\n", myNum);
+  printf("%i\n", myNum);
   printf("%f\n", myFloatNum);
   printf("%c\n", myLeter);
 }
