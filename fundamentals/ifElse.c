@@ -35,7 +35,7 @@ int main() {
   // short hand
   // variable = (condition) ? expressionTrue : expressionFalse;
   time = 15;
-  (time < 18) ? printf("Good day.") : printf("Good evening.");
+  (time < 18) ? printf("Good day.\n") : printf("Good evening.\n");
   
   return 0;
 }
